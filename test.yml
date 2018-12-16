@@ -4,7 +4,7 @@
    become: yes
 
    vars: 
-      oracle_db_port_value : 1521
+      oracle_db_port_value : 1522
    
    tasks:
    -name: Install the Oracle DB
